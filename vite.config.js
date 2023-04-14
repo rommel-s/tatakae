@@ -16,19 +16,19 @@ export default defineConfig({
         background_color: "#0F172A",
         icons: [
           {
-            src: "/assets/icons/512x512.png",
+            src: "/icons/512x512.png",
             sizes: "512x512",
             type: "image/png",
             purpose: "any maskable",
           },
           {
-            src: "/assets/icons/192x192.png",
+            src: "/icons/192x192.png",
             sizes: "192x192",
             type: "image/png",
             purpose: "any maskable",
           },
           {
-            src: "/assets/icons/144x144.png",
+            src: "/icons/144x144.png",
             sizes: "144x144",
             type: "image/png",
             purpose: "any maskable",
